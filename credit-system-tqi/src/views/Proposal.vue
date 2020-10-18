@@ -8,8 +8,8 @@
         <div class="pt-5" id="Calcule">
 
             <div class="form-group col-md-12">
-                <h3>Informe o valor pretendido</h3>
-                <h5>Nós encontraremos a melhor opção para vocês</h5>
+                <h3>Informe o valor</h3>
+                <h5>Nós encontraremos a melhor opção para vocês. Veja as opções abaixo!</h5>
 
                 <div class="row col-12 d-flex justify-content-center">
 
